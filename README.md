@@ -1,6 +1,6 @@
 ### Olá, sou Gustavo Brandão. 👋
 
-- 🔭 Atualmente, desempenho a função de analista de negócios.
+- 🔭 Desempenhando a função de analista de negócios.
 - 📫 Contato: gustavo.brandao@smn.com.br
 ##
 <div> 
