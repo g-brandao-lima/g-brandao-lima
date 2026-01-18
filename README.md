@@ -1,7 +1,17 @@
-### Olá, sou Gustavo Brandão. 👋
+### Gustavo Brandão - Business Analyst → Product Manager
 
-- 🔭 Desempenhando a função de analista de negócios.
-- 📫 Contato: gustavo.brandao@smn.com.br
+Construindo pontes entre negócio e tecnologia. 
+Atuação atual no setor imobiliário.
+
+Stack: SQL • BPMN • Análise de Requisitos • Gestão de Projetos
+
+Certificações: CSPO • CPRE • SFPC
+
+Foco em gerar valor real para o negócio, com evolução constante pessoal e profissional
+
+Formado em Direito e em Análise e Desenvolvimento de Sistemas.
+Pós-graduando em Product Management pela FIAP.
+
 ##
 <div> 
 
