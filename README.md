@@ -1,21 +1,18 @@
-### Gustavo Brandão - Business Analyst → Product Manager
+# Gustavo Brandao
 
-Construindo pontes entre negócio e tecnologia. 
-Atuação atual no setor imobiliário.
+Business Analyst → Product Manager
 
-Stack: SQL • BPMN • Análise de Requisitos • Gestão de Projetos
+Construindo pontes entre negocio e tecnologia. Atuacao no setor imobiliario.
 
-Certificações: CSPO • CPRE • SFPC
+---
 
-Foco em gerar valor real para o negócio, com evolução constante pessoal e profissional
+**Stack:** SQL | BPMN | Analise de Requisitos | Gestao de Projetos | Python
 
-Formado em Direito e em Análise e Desenvolvimento de Sistemas.
-Pós-graduando em Product Management pela FIAP.
+**Certificacoes:** CSPO | CPRE | SFPC
 
-##
-<div> 
+**Formacao:** Direito | Analise e Desenvolvimento de Sistemas | Product Management (FIAP)
 
-  <a href="https://www.instagram.com/gustavobrandao.96/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavob096@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-brandao-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-brandao-lima/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavob096@gmail.com)
