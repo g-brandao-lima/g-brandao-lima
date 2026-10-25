@@ -1,16 +1,6 @@
 # Gustavo Brandão
 
-Business Analyst → Product Manager
-
-Construindo pontes entre negócio e tecnologia :)
-
-<img src="https://user-images.githubusercontent.com/0/0.png" width="100%" height="1">
-
-**Stack:** SQL | BPMN | Análise de Requisitos | Gestão de Projetos | Python
-
-**Certificações:** CSPO | CPRE | SFPC
-
-**Formação:** Direito | Análise e Desenvolvimento de Sistemas | Product Management (FIAP)
+Business Analyst / Product Owner
 
 <img src="https://user-images.githubusercontent.com/0/0.png" width="100%" height="1">
 
